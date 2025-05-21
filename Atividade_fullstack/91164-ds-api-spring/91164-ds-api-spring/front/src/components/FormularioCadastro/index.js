@@ -5,7 +5,7 @@ import './styles.css'
 import { useNavigate } from "react-router-dom";
 import useMensagem from '../../hooks/useMensagem'
 import MensagemFeedback from '../MensagemFeedback'
-import logo from '../../assets/images/logo.png'
+import logo from '../../assets/images/lucio.png'
 import axios from 'axios'
 
 function FormularioCadastro() {
